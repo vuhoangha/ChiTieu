@@ -31,5 +31,17 @@
         "an trua": 20,
         "an toi": 20,
         "tien banh keo": 48
-    }
+    },
+    "27/6":{
+        "an sang": 15,
+        "an trua": 30,
+        "an toi": 20,
+        "tra sua": 200
+    },
+    "28/6 -> 30/6":{
+        "an sang": 45,
+        "an trua": 60,
+        "an toi": 60,
+        "do xang: : 35
+    },
 }
